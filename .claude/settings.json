@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"hookSpecificOutput\":{\"hookEventName\":\"UserPromptSubmit\",\"additionalContext\":\"Rappel doctrine : decoupe en 3 branches paralleles max, lance en parallele chef-de-projet, pdg-agent et ECC (Multi Agent Manager) sur les taches independantes, puis synthetise en une reponse unique. Reponses concises.\"}}'"
+          }
+        ]
+      }
+    ]
+  }
+}
