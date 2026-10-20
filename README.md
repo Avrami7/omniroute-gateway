@@ -1,5 +1,7 @@
 # omniroute-gateway
 
+[![CI](https://github.com/Avrami7/omniroute-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/Avrami7/omniroute-gateway/actions/workflows/ci.yml)
+
 A self-hosted, single-endpoint LLM gateway that routes requests to multiple
 providers (Anthropic, OpenAI, more to come) using **your own paid API keys**.
 
